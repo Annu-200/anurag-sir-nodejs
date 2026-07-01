@@ -1,0 +1,6 @@
+8:16:58 pm
+ENOENT: no such file or directory, open 'D:\MERN\NODE-Express\Course-AnuragSir\1-section\03_fundamental_of_nodejs\fs-module(write-append)\nodejs'
+Error: ENOENT: no such file or directory, open 'D:\MERN\NODE-Express\Course-AnuragSir\1-section\03_fundamental_of_nodejs\fs-module(write-append)\nodejs'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1243:14)
+    at async file:///D:/MERN/NODE-Express/Course-AnuragSir/1-section/03_fundamental_of_nodejs/fs-module(write-append)/app.js:14:2
