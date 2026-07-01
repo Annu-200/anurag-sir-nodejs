@@ -1,0 +1,12 @@
+{
+    "type":"module",
+    "name":"single_word_count",
+    "version":"1.0.0",
+    "description":"A simple word counter app",
+    "main":"app.js",
+    "scripts":{
+        "start":"node app.js"
+    },
+    "author":"annu pawar"
+  
+}
