@@ -1,0 +1,12 @@
+ls -s  (for run it write ./ad.sh)
+ for create exe file to timer.js to  install pkg package
+ npm install -g pkg
+ npm install -y
+  package file should look like 
+  {
+  "name": "timer",
+  "version": "1.0.0",
+  "bin": "timer.js"
+}
+
+after run  command pkg timer.js --targets node18-win-x64 --output timer.exe
