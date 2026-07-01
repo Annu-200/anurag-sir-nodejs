@@ -1,0 +1,11 @@
+{
+
+    "type": "module",
+    "main": "app.js",
+
+  "dependencies": {
+    "counter-words": "^1.0.3"
+  }
+ 
+  
+}
