@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "annu": "^1.0.1",
+        "date-fns": "^4.1.0"
+    }
+}
