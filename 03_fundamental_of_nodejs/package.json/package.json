@@ -1,0 +1,16 @@
+{
+  "name": "my-packagejson",
+  "version": "1.0.0",
+  "description": "hame pata nhi ha",
+  "main": "app.js",
+  "scripts": {
+    "hi": "pwd",
+    "dev": "node --watch app.js"
+  },
+  "author": "anu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "express": "<=5.2.1"
+  }
+}
